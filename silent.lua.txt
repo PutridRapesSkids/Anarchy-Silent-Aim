@@ -2,7 +2,7 @@ getgenv().Prediction =  (  0  )   -- [ PREDICTION: THIS IS ANARCHY IT DOESNT REQ
 
 getgenv().FOV =  (  250  )   -- [ FOV RADIUS: Increases Or Decreases FOV Radius ]
 
-getgenv().AimKey =  (  "c"  )  -- [ TOGGLE KEY: Toggles Silent Aim On And Off ]
+getgenv().AimKey =  (  "q"  )  -- [ TOGGLE KEY: Toggles Silent Aim On And Off ]
 
 --[[
 		Do Not Edit Anything Beyond This Point. 
